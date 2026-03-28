@@ -8,17 +8,17 @@ The dashboard helps in understanding the pandemic's impact and vaccination distr
 
 **🎯 Objectives**
 
--Analyze COVID-19 case trends over time
--Compare confirmed, recovered, and death cases
--Track global vaccination progress
--Identify countries with high vaccination rates
--Provide an interactive and user-friendly dashboard
+Analyze COVID-19 case trends over time.
+Compare confirmed, recovered, and death cases.
+Track global vaccination progress.
+Identify countries with high vaccination rates.
+Provide an interactive and user-friendly dashboard.
 
 **🛠️ Tools & Technologies**
 
--Power BI – Data visualization and dashboard creation
--Power Query – Data cleaning and transformation
--Excel / CSV – Data sources
+Power BI – Data visualization and dashboard creation.
+Power Query – Data cleaning and transformation.
+Excel / CSV – Data sources.
 
 **📂 Data Processing Steps**
 
@@ -28,39 +28,40 @@ Imported multiple datasets into Power BI
 
 🔹 Data Cleaning
 
-Removed duplicate records
-Handled missing values using average replacement
-Standardized date formats
-Ensured data consistency
+Removed duplicate records.
+Handled missing values using average replacement.
+Standardized date formats.
+Ensured data consistency.
 
 🔹 Data Transformation
 
-Merged datasets using Date and State/Country fields
-Created relationships between tables for efficient analysis
+Merged datasets using Date and State/Country fields.
+Created relationships between tables for efficient analysis.
 
 **📊 Dashboard Features**
 
 **📈 Line Chart**
 
--Displays trends of:
--Confirmed cases
--Recovered cases
--Death cases
--Shows how cases evolve over time
+Displays trends of:
+
+Confirmed cases,
+Recovered cases,
+Death cases, and 
+Shows how cases evolve over time
 
 **📊 Bar Chart**
 
--Compares confirmed and recovered cases across countries
+Compares confirmed and recovered cases across countries
 
 **🌍 Map Visualization**
 
-Displays global vaccination distribution
-Highlights countries with the highest fully vaccinated population
+Displays global vaccination distribution.
+Highlights countries with the highest fully vaccinated population.
 
 **🍩 Donut Chart**
 
-Shows vaccine types used globally
-Represents regional distribution of vaccines
+Shows vaccine types used globally.
+Represents regional distribution of vaccines.
 
 **🎯 Gauge Chart**
 
@@ -68,11 +69,11 @@ Displays percentage of fully vaccinated population
 
 **📌 Key Performance Indicators (KPIs)**
 
-Total Confirmed Cases
-Total Recoveries
-Total Deaths
-Total Vaccinations Administered
-Fully Vaccinated Population (%)
+Total Confirmed Cases,
+Total Recoveries,
+Total Deaths,
+Total Vaccinations Administered,
+Fully Vaccinated Population (%).
 
 **📷 Dashboard Preview**
 
@@ -81,21 +82,29 @@ Fully Vaccinated Population (%)
 **📈 Key Insights**
 
 Confirmed cases are significantly higher compared to recoveries and deaths
+
 Some countries lead in vaccination coverage globally
+
 Vaccination distribution varies across regions
+
 Trends show the progression and control of the pandemic over time
 
 **🚀 How to Use**
 
 Download the .pbix file from this repository
+
 Open it using Power BI Desktop
+
 Interact with filters and visuals to explore insights
 
 **📌 Future Improvements**
 
 Add real-time data integration
+
 Include predictive analysis using Python
+
 Enhance dashboard interactivity
+
 Add region-wise drill-down analysis
 
 **👩‍💻 Author**
