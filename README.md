@@ -18,7 +18,7 @@ Provide an interactive and user-friendly dashboard.
 
 Power BI – Data visualization and dashboard creation.
 Power Query – Data cleaning and transformation.
-Excel / CSV – Data sources.
+CSV – Data sources.
 
 **📂 Data Processing Steps**
 
